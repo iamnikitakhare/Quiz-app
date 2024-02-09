@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: " How many passes does an insertion sort algorithm consist of?",
+      option1: "N",
+      option2: "N-1",
+      option3: "N+1",
+      option4: "N*1",
+      ans: 2,
+    },
+    {
+      question: " Which of the following algorithm implementations is similar to that of an insertion sort?",
+      option1: "Binary heap",
+      option2: "Quicksort",
+      option3: "Mergesort",
+      option4: "Bubblesort",
+      ans:1 ,
+    },
+    {
+      question: "Junk e-mail is also called?",
+      option1: "Spam",
+      option2: "Fake",
+      option3: "Archived",
+      option4: "Bin",
+      ans: 1,
+    },
+    {
+      question: "A computer cannot BOOT if it does not have the?",
+      option1: "Application Software",
+      option2: "Internet",
+      option3: "Operating System",
+      option4: "Mouse",
+      ans: 3,
+    },
+    {
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+  ];
